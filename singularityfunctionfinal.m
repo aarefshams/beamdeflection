@@ -1,3 +1,6 @@
+clear 
+clc
+
 L=(input('L:'));               % Beam length
 E =(input('E:'));              % Young's modulus
 I =(input('I:'));              % Moment of inertia
